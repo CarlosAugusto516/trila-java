@@ -24,3 +24,5 @@ hs_err_pid*
 replay_pid*
 tipos-variaveis/.vscode/settings.json
 metodos-sistema-smart-tv/.vscode/settings.json
+terminal-argumentos/.vscode/launch.json
+terminal-argumentos/.vscode/settings.json
